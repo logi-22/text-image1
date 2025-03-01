@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+pillow
+transformers
+torch
+numpy
+pinecone
+python-jose[cryptography]
+python-multipart
+jose
