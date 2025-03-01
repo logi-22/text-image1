@@ -22,8 +22,8 @@ This project is an **AI-powered image search system** using **Streamlit (fronten
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/logi-22/streamlitrun.git
-cd streamlitrun
+git clone https://github.com/logi-22/text-image1.git
+cd text-image1.git
 ```
 
 ### **2️⃣ Install Dependencies**
